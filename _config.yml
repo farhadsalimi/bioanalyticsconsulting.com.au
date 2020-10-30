@@ -30,13 +30,13 @@ social-network-links:
   calendly: "attalitech/meeting"
   youtube: "channel/UCR3No6pYhA1S7FZ0PbLKlgQ"
 
-url-pretty: "AttaliTech.com"
+url-pretty: "BioAnalyticsConsulting.com.au"
 
 footer-img: "/assets/img/footer-bg.png"
 
 google_analytics: "UA-59820529-1"
 
-timezone: "America/Toronto"
+timezone: "Australia/Melbourne"
 markdown: kramdown
 highlighter: rouge
 
