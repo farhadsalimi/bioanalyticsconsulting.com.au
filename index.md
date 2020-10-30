@@ -13,7 +13,7 @@ css:
 
 <!--- <b style="font-size: 1.2em;">Led by renowned Shiny expert [Dean Attali](https://deanattali.com/)</b> -->
 
-<img src="/assets/img/shiny.png" />
+<img src="/assets/img/logo_transparent.png" />
 
 </div>
 
