@@ -9,9 +9,9 @@ css:
 
 # BioAnalytics Consulting {#title}
 
-## R-Shiny Consultant {#subtitle}
+## BioStats Consultant Consultant {#subtitle}
 
-<b style="font-size: 1.2em;">Led by renowned Shiny expert [Dean Attali](https://deanattali.com/)</b>
+<!--- <b style="font-size: 1.2em;">Led by renowned Shiny expert [Dean Attali](https://deanattali.com/)</b> -->
 
 <img src="/assets/img/shiny.png" />
 
