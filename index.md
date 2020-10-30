@@ -1,13 +1,13 @@
 ---
 layout: base
-title: "AttaliTech - Expert R-Shiny Consultant"
+title: "BioAnalytics Consulting - BioStats Consultant"
 css:
   - /assets/css/index.css
 ---
 
 <div id="header" markdown="1">
 
-# AttaliTech Ltd {#title}
+# BioAnalytics Consulting {#title}
 
 ## R-Shiny Consultant {#subtitle}
 
