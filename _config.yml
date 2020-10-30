@@ -1,6 +1,6 @@
 remote_theme: daattali/beautiful-jekyll
 
-title: <img src="/assets/img/logo_transparent.png" />
+title: BioAnalytics Consulting
 
 author: BioAnalytics Consulting
 
@@ -9,7 +9,6 @@ navbar-links:
   Open-Source: "https://deanattali.com/projects"
   Schedule meeting: "https://calendly.com/attalitech/meeting"
   Contact: "/contact"
-  ❤ Support: "https://github.com/sponsors/daattali"
 
 site-css: "/assets/css/attalitech.css"
 
