@@ -7,10 +7,6 @@ css:
 
 <div id="header" markdown="1">
 
-# BioAnalytics Consulting {#title}
-
-### BioStats Consultant {#subtitle}
-
 <!--- <b style="font-size: 1.2em;">Led by renowned Shiny expert [Dean Attali](https://deanattali.com/)</b> -->
 
 <img src="/assets/img/logo_transparent.png" />
