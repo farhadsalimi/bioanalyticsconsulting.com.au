@@ -9,7 +9,7 @@ css:
 
 <!--- <b style="font-size: 1.2em;">Led by renowned Shiny expert [Dean Attali](https://deanattali.com/)</b> -->
 
-<img src="/assets/img/facebook_cover_photo_1.png" />
+<img src="/assets/img/facebook_cover_photo_1.v1.png" />
 
 </div>
 
