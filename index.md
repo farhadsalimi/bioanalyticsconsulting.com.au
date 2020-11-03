@@ -19,10 +19,10 @@ css:
   <div id="services">
 	<div class="section-title">Services</div>
 	<div id="services-list">
-	  <span class="service" markdown="1">Building or improving Shiny apps of any complexity</span>
-	  <span class="service" markdown="1">Offering expert advice, training, and workshops in Shiny/R</span>
-	  <span class="service" markdown="1">Code review and optimization of Shiny apps and workflows</span>
-	  <span class="service" markdown="1">Building professional quality R packages</span>
+	  <span class="service" markdown="1">Methodology review and design of experiments</span>
+	  <span class="service" markdown="1">Development of appropriate biostatistical analysis plan</span>
+	  <span class="service" markdown="1">Statistical software advice and code review (R and STATA)</span>
+	  <span class="service" markdown="1">Offering advice, training, and workshops in R and STATA</span>
 	</div>
 
     <a href="/contact" class="contact-me-btn actionbtn">
