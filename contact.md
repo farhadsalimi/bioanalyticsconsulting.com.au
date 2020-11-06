@@ -4,7 +4,7 @@ title: Contact
 share-title: AttaliTech - Contact
 ---
 
-For any biostatistics/R/STATA consulting inquiries, please email [farhad.salimi@bioanalyticsconsulting.com.au](mailto:farhad.salimi@bioanalyticsconsulting.com.au?subject=Shiny consulting inquiry)
+For any biostatistics/R/STATA consulting inquiries, please email [farhad.salimi@bioanalyticsconsulting.com.au](mailto:farhad.salimi@bioanalyticsconsulting.com.au?subject=Biostats consulting inquiry)
 
 Note that before any work can be performed, a (virtual) meeting is usually performed to gather requirements and discuss your needs.
 
