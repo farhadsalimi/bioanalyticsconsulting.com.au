@@ -9,7 +9,7 @@ For any R/Shiny consulting inquiries, please email [farhad.salimi@bioanalyticsco
 Note that before any work can be performed, a (virtual) meeting is usually performed to gather requirements and discuss your needs.
 
 <div style="text-align: center;">
-<a href="https://calendly.com/attalitech/meeting" class="schedule-btn actionbtn">
+<a href="https://calendly.com/bioanalytics_consulting/30min" class="schedule-btn actionbtn">
   <span class="far fa-calendar-check" aria-hidden="true"></span>
   SCHEDULE MEETING
 </a>
