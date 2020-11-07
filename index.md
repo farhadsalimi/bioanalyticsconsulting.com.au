@@ -35,7 +35,7 @@ css:
 
 <div id="aboutme-section-out" class="page-section">
   <div id="aboutme-section">
-    <div class="section-title">About Dean</div>
+    <div class="section-title">About Us</div>
 	<div id="aboutme-list" markdown="1">
 {% for info in site.data.main_info %}
 {% if info.icon %}<span class="about-icon fa-fw {{ info.icon }}" aria-hidden="true"></span>{% endif info.icon %}
