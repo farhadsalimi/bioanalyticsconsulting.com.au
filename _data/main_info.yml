@@ -1,5 +1,7 @@
 - icon: fas fa-users
-  content: We understand that biostatistics is not merely a subset of statistics, but its own field. Because of the significant impact and broad implications for medical research and public health, we ensure that you use the appropriate statistical tests and predictive techniques when we analyse your clinical research, disease or disorder incidence, and meta-analytic data. We combine this expertise with our intimate understanding of the methodological norms of the medical, clinical research, epidemiological, and public health research literatures.
+  content: We understand that biostatistics is not merely a subset of statistics, but its own field.
+  Because of the significant impact and broad implications for medical research and public health, we ensure that you use the appropriate statistical tests and predictive techniques when we analyse your clinical research, disease or disorder incidence, and meta-analytic data. We combine this expertise with our intimate understanding of the methodological norms of the medical, clinical research, epidemiological, and public health research literatures.
+  We can provide biostatistics support at exactly the level you require. Because of our extensive work with clinicians, PhD-MDs, public health academics, and epidemiologists, we match you with the right team of academics and methodologists to perform the most rigorous analysis that your data will allow.
 - icon: fas fa-users
   content: Creator of ["Shiny Case Studies"](https://www.datacamp.com/courses/case-studies-building-web-applications-with-shiny-in-r) course — an interactive, online video course
 - icon: fas fa-microphone
