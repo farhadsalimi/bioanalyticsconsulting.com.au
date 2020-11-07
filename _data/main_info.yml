@@ -1,6 +1,7 @@
-- icon: fas fa-users
+- 
   content: 
   - We understand that biostatistics is not merely a subset of statistics, but its own field.
+- icon: fas fa-users  
   content: 
   - Because of the significant impact and broad implications for medical research and public health, we ensure that you use the appropriate statistical tests and predictive techniques when we analyse your clinical research, disease or disorder incidence, and meta-analytic data. We combine this expertise with our intimate understanding of the methodological norms of the medical, clinical research, epidemiological, and public health research literatures.
   content: 
@@ -9,11 +10,3 @@
   - We have experience with a wide range of statistical methods and software including Stata, SAS, R, and WinBUGS.
   content: 
   - In our biostatistics and epidemiological consulting work, at Precision we provide a customized consulting and analysis service to every client (hospitals, government agencies, academic and research institutions, private corporations, and individual investigators) 
-- icon: fas fa-users
-  content: Creator of ["Shiny Case Studies"](https://www.datacamp.com/courses/case-studies-building-web-applications-with-shiny-in-r) course — an interactive, online video course
-- icon: fas fa-microphone
-  content: Invited main speaker at **Shiny Developer Conference** hosted by RStudio - [30 min talk](https://resources.rstudio.com/shiny-developer-conference/shinydevcon-shinyjs-deanattali-1080p)
-- icon: fas fa-trophy
-  content: "**Second highest** all-time answerer in the \"shiny\" tag on [StackOverflow](https://stackoverflow.com/tags/shiny/topusers)"
-- icon: fas fa-briefcase
-  content: Previously a **software engineer** at **Google** and top San Francisco startup [Wish.com](https://www.wish.com/)
