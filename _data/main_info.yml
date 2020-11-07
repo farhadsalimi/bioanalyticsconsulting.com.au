@@ -1,5 +1,5 @@
-- icon: fas fa-code
-  content: "**Author of popular packages** [shinyjs](https://deanattali.com/shinyjs) ([featured by RStudio](https://shiny.rstudio.com/articles)), [timevis](https://github.com/daattali/timevis), [addinslist](https://github.com/daattali/addinslist) & [more](https://deanattali.com/projects/#r-packages)"
+- icon: fas fa-users
+  content: We understand that biostatistics is not merely a subset of statistics, but its own field. Because of the significant impact and broad implications for medical research and public health, we ensure that you use the appropriate statistical tests and predictive techniques when we analyse your clinical research, disease or disorder incidence, and meta-analytic data. We combine this expertise with our intimate understanding of the methodological norms of the medical, clinical research, epidemiological, and public health research literatures.
 - icon: fas fa-users
   content: Creator of ["Shiny Case Studies"](https://www.datacamp.com/courses/case-studies-building-web-applications-with-shiny-in-r) course — an interactive, online video course
 - icon: fas fa-microphone
