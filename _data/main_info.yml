@@ -1,7 +1,7 @@
 - icon: fas fa-users
   content: Our team has extensive knowledge and experience in the field of biostatistics
 - icon: fas fa-database
-  content: We have experience in working with large cohorts such as 45 and Up Study as well as clinical regsitries and clinical trials
+  content: We have experience in working with large cohorts such as 45 and Up Study as well as clinical registries and clinical trials
 - icon: fas fa-chart-line
   content: We have provided statistical analysis and interpretation for all typical analytical procedures used in biostatistics research, such as Kaplan-Meier Survival Analysis and Cox Regression, Structural Equation Modeling, Multilevel Linear and Nonlinear Models, Meta-analysis, Machine learning estimation techniques for large scale and high dimensional public health and epidemiological datasets
 - icon: fas fa-file-medical-alt
