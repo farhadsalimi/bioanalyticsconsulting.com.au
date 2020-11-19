@@ -60,45 +60,6 @@ css:
   </div>
 </div>
 
-<div id="portfolio-out" class="page-section">
-  <div id="portfolio">
-    <div class="section-title">
-      Sample of Open Sourced Shiny Apps
-    </div>
-    <div id="shinyapps-big" data-columns>
-      {% for app in site.data.portfolio %}
-	    <div class="shinyapp">
-          <a class="applink" href="{{ app.url }}">
-            <img class="appimg" src="/assets/img/screenshots/{{ app.img }}" />
-            <div class="apptitle">{{ app.title }}</div>
-            <div class="appdesc">{{ app.description }}</div>
-          </a>
-        </div>
-	  {% endfor %}
-    </div>
-  </div>
-</div>
-
-<div id="qualifications-out" class="page-section">
-  <div id="qualifications">
-    <div class="section-title">Dean's Credentials</div>
-    <div id="qualifications-list" markdown="1">
-{% for info in site.data.qualifications %}
-<span class="about-icon fa-fw {{ info.icon }}" aria-hidden="true"></span>
-<span class="about-content">{{ info.content }}</span>
-{: .about-text }
-{% endfor %}
-</div>
-  </div>
-  <a href="/contact" class="contact-me-btn actionbtn">
-    <span class="far fa-envelope" aria-hidden="true"></span>
-    CONTACT
-  </a>
-</div>
-
-</div>
-
-
 <script>
   /*!
   * Salvattore 1.0.9 by @rnmp and @ppold
